@@ -36,7 +36,7 @@ I found myself stuck on syntax errors several times.  Some of the problems that 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Eliel Davis]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
